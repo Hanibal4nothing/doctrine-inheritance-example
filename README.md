@@ -7,7 +7,7 @@
 ## Where?
 You can find inheritance "config" @ src/AppBundle/Entity/ContainerObject.php
 
-##How to test it?
+## How to test it?
 - create [symfony skeleton](https://symfony.com/doc/current/setup.html)
 - overwrite AppBundle with this bundle
 - @see src/AppBundle/Controller/DefaultController.php
